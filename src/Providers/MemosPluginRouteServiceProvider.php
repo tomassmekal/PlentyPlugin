@@ -15,7 +15,7 @@ class MemosPluginRouteServiceProvider extends RouteServiceProvider
 {
     public function map(Router $router)
     {
-        echo "Finally?";
+        //echo "Finally?";
         $router->get('memos','MemosPlugin\Controllers\ContentController@sayHello');
         $router->get('another','MemosPlugin\Controllers\ContentController@sayAnother');
     }
