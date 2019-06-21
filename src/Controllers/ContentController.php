@@ -6,7 +6,7 @@
  * Time: 7:54 AM
  */
 
-namespace MemosPlutin\Controllers;
+namespace MemosPlugin\Controllers;
 
 use Plenty\Plugin\Controller;
 use Plenty\Plugin\Templates\Twig;
