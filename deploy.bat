@@ -1,6 +1,6 @@
 @echo off
 
-cd C:\Users\tsmekal\Documents\Projekty\Einhell\PlentyMarket\Plugins\HelloWorld
+cd C:\Users\tsmekal\Documents\Projekty\Einhell\PlentyMarket\Plugins\PlentyPlugin
 
 git add .
 
