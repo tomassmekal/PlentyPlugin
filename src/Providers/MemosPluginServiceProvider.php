@@ -19,7 +19,7 @@ class MemosPluginServiceProvider extends ServiceProvider
 
     public function register()
     {
-        $this->getApplication()->register(MemosPluginServiceProvider::class);
+        $this->getApplication()->register(MemosPluginRouteServiceProvider::class);
     }
 
 }
