@@ -17,4 +17,9 @@ class ContentController extends Controller
     {
         return $twig->render('MemosPlugin::content.memos');
     }
+
+    public function sayAnother(Twig $twig):string
+    {
+        return $twig->render('MemosPlugin::content.another');
+    }
 }
