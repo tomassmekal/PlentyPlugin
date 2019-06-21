@@ -1,0 +1,8 @@
+{
+      "name":"MemosPlugin",
+      "description":"Tomas' Plentymarkets plugin",
+      "namespace":"MemosPlugin",
+      "author":"Tomas Smekal",
+      "type":"template",
+      "serviceProvider":"MemosPlugin\\Providers\\MemosPluginServiceProvider"
+}
