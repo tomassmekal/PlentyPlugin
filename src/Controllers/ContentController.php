@@ -13,7 +13,7 @@ use Plenty\Plugin\Templates\Twig;
 
 class ContentController extends Controller
 {
-    public function sayIWillBeBack(Twig $twig):string
+    public function sayHello(Twig $twig):string
     {
         return $twig->render('MemosPlugin::content.memos');
     }
