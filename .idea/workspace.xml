@@ -58,21 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="memos.twig" pinned="false" current-in-tab="false">
+      <file leaf-file-name="memos.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/content/memos.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="140">
+              <caret line="7" column="793" lean-forward="false" selection-start-line="7" selection-start-column="793" selection-end-line="7" selection-end-column="793" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="another.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="another.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/content/another.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="20">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -101,8 +101,8 @@
         <option value="$PROJECT_DIR$/resources/views/content/another" />
         <option value="$PROJECT_DIR$/src/Controllers/ContentController.php" />
         <option value="$PROJECT_DIR$/src/Providers/MemosPluginRouteServiceProvider.php" />
-        <option value="$PROJECT_DIR$/resources/views/content/memos.twig" />
         <option value="$PROJECT_DIR$/resources/views/content/another.twig" />
+        <option value="$PROJECT_DIR$/resources/views/content/memos.twig" />
       </list>
     </option>
   </component>
@@ -218,12 +218,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561095947603</updated>
       <workItem from="1561095952836" duration="4949000" />
-      <workItem from="1561354761971" duration="832000" />
+      <workItem from="1561354761971" duration="1153000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5781000" />
+    <option name="totallyTimeSpent" value="6102000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -348,18 +348,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/content/memos.twig">
+    <entry file="file://$PROJECT_DIR$/resources/views/content/another.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="20">
+          <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/content/another.twig">
+    <entry file="file://$PROJECT_DIR$/resources/views/content/memos.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="140">
+          <caret line="7" column="793" lean-forward="false" selection-start-line="7" selection-start-column="793" selection-end-line="7" selection-end-column="793" />
           <folding />
         </state>
       </provider>
