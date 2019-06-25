@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe18ac81-4e0a-46e5-9115-c9b2666a0062" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/content/another.twig" afterPath="$PROJECT_DIR$/resources/views/content/another.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/content/memos.twig" afterPath="$PROJECT_DIR$/resources/views/content/memos.twig" />
-    </list>
+    <list default="true" id="fe18ac81-4e0a-46e5-9115-c9b2666a0062" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +58,8 @@
       <file leaf-file-name="memos.twig" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/content/memos.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" column="793" lean-forward="false" selection-start-line="7" selection-start-column="793" selection-end-line="7" selection-end-column="793" />
+            <state relative-caret-position="160">
+              <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -218,12 +215,12 @@
       <option name="presentableId" value="Default" />
       <updated>1561095947603</updated>
       <workItem from="1561095952836" duration="4949000" />
-      <workItem from="1561354761971" duration="1153000" />
+      <workItem from="1561354761971" duration="1758000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6102000" />
+    <option name="totallyTimeSpent" value="6707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
@@ -358,8 +355,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/content/memos.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="793" lean-forward="false" selection-start-line="7" selection-start-column="793" selection-end-line="7" selection-end-column="793" />
+        <state relative-caret-position="160">
+          <caret line="8" column="4" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding />
         </state>
       </provider>
